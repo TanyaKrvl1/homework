@@ -1,0 +1,126 @@
+
+
+/* Raleway Regular */
+@font-face {
+    font-family: 'Raleway Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Raleway Regular'), local('Raleway-Regular'),
+        url('../fonts/Raleway-Regular.woff2') format('woff2'),
+        url('../fonts/Raleway-Regular.woff') format('woff'),
+        url('../fonts/Raleway-Regular.ttf') format('ttf'),
+        url('../fonts/Raleway-Regular.eot') format('eot');
+}
+
+
+.block__title {
+    font-family: 'Raleway Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.block__text {
+    font-family: 'Raleway Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+}
+
+.block__group1__content1{
+    font-family: 'Raleway Regular', sans-serif;
+}
+
+.block__group2__content2{
+    font-family: 'Raleway Regular', sans-serif;
+}
+
+.block__group3__content3{
+    font-family: 'Raleway Regular', sans-serif;
+}
+
+
+@font-face {
+    font-family: 'Open Sans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Open Sans Regular'), local('OpenSans-Regular'),
+        url('../fonts/OpenSans-Regular.woff2') format('woff2'),
+        url('../fonts/OpenSans-Regular.woff') format('woff'),
+        url('../fonts/OpenSans-Regular.ttf') format('ttf'),
+        url('../fonts/OpenSans-Regular.eot') format('eot');
+}
+    
+
+.block__group1__contenttitle1{
+    font-family: 'OpenSans-Regular', sans-serif;
+}
+
+.block__group2__contenttitle2{
+    font-family: 'OpenSans-Regular', sans-serif;
+}
+
+.block__group3__contenttitle3{
+    font-family: 'OpenSans-Regular', sans-serif;
+}
+
+
+@font-face {
+    font-family: 'OpenSans';
+    src:  url(fonts/OpenSans-Regular.ttf);
+
+}
+
+.tabs {
+
+    font-family: 'OpenSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    align-items: center;
+    text-align: center;
+}
+
+button {
+    font-family: 'OpenSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    align-items: center;
+    text-align: center;
+}
+
+.main__title {
+    font-family: 'OpenSans-Regular', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+}
+
+
+@font-face {
+    font-family: 'Raleway';
+    src:  url(fonts/Raleway-Regular.ttf);
+
+}
+
+.main__text {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
